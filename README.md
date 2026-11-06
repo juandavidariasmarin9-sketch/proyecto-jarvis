@@ -20,3 +20,5 @@ y ahora los errores que surguieron (hojala que nos pasen)
 *El BOM que rompió el arranque del backend
 *La voz diciendo «cubo» cuando le pediste «esfera»
 
+tristemente no puedo subirlo aca por el peso, pero esta por mega
+aqui esta para su disfrute: https://mega.nz/file/7ohSyCxZ#m4h3oMuivVCO03KWsHrsnSDqu3wgqfaLtStYn0zWSCo
